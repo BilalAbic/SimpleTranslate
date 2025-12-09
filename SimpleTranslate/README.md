@@ -5,19 +5,19 @@ Object-Oriented Programming (OOP) course assignment. A Windows Forms translation
 ## Screenshots
 
 ### Auto to English
-![TR to EN](https://github.com/BilalAbic/SimpleTranslate/tree/master/SimpleTranslate/docs/photos/Auto-English.png)
+![TR to EN](https://raw.githubusercontent.com/BilalAbic/SimpleTranslate/master/SimpleTranslate/docs/photos/Auto-English.png)
 
 ### English to Turkish
-![EN to TR](https://github.com/BilalAbic/SimpleTranslate/tree/master/SimpleTranslate/docs/photos/English-Turkish.png)
+![EN to TR](https://raw.githubusercontent.com/BilalAbic/SimpleTranslate/master/SimpleTranslate/docs/photos/English-Turkish.png)
 
 ### English to French
-![FR to ES](https://github.com/BilalAbic/SimpleTranslate/tree/master/SimpleTranslate/docs/photos/English-French.png)
+![FR to ES](https://raw.githubusercontent.com/BilalAbic/SimpleTranslate/master/SimpleTranslate/docs/photos/English-French.png)
 
 ### German to Russian
-![JA to EN](https://github.com/BilalAbic/SimpleTranslate/tree/master/SimpleTranslate/docs/photos/German-Russian.png)
+![DE to RU](https://raw.githubusercontent.com/BilalAbic/SimpleTranslate/master/SimpleTranslate/docs/photos/German-Russian.png)
 
 ### Turkish to German
-![JA to EN](https://github.com/BilalAbic/SimpleTranslate/tree/master/SimpleTranslate/docs/photos/Turkish-German.png)
+![TR to DE](https://raw.githubusercontent.com/BilalAbic/SimpleTranslate/master/SimpleTranslate/docs/photos/Turkish-German.png)
 
 ## Download and Usage
 Clone repo and update API key in `Services/ImageSearchService.cs`
